@@ -1,4 +1,4 @@
-DECLARE @name AS VARCHAR(50) = '';
+DECLARE @name AS VARCHAR(50) = 'Erikipedia';
 
 SELECT *
 FROM DAILY_SCORES
